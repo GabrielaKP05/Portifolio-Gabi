@@ -22,7 +22,6 @@ Este é um projeto de portfólio desenvolvido em aula. O objetivo do portfólio 
 |-- styles.css
 |-- script.js
 |-- /images
-|-- /projects
 ```
 
 
