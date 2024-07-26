@@ -17,7 +17,7 @@ Este é um projeto de portfólio desenvolvido em aula. O objetivo do portfólio 
 
 ## Estrutura do Projeto
 ```
-/Portif-lio-finalizado
+/Portifolio-Gabi
 |-- index.html
 |-- styles.css
 |-- script.js
